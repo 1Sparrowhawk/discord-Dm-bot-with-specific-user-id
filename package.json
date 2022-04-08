@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.1-security"
+  },
+  "name": "no-intent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sραrrσωhαωκ#0001",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "1Sparrowhawk"
+  },
+  "keywords": [
+    "dm",
+    "ids"
+  ],
+  "description": ""
+}
